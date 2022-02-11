@@ -23,7 +23,8 @@ async def on_message(message):
         m = await message.send("Ghost Pinged! message has been deleted")
         await asyncio.sleep(2)
         await m.delete()
-        
+
+bot.run(TOKEN)
     
     
 
