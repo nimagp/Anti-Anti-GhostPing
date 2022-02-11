@@ -1,0 +1,7 @@
+{
+    "name": "Anti-Anti-GhostPing",
+    "description": "A simple bot to delete Discord 'Security' bot's GhostPing alerts",
+    "repository": "https://github.com/nimagp/Anti-Anti-GhostPing",
+    "logo": "",
+    "keywords": ["python", "discord"]
+  }

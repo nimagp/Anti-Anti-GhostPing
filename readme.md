@@ -15,4 +15,10 @@ DISCORD_TOKEN=<your_token>
 ### Heroku/RailWay or Replit
 For deploy to these platforms you only need to click on the 'Deploy' or 'Run' button of your platform or if you prefer, deploy project yourself. Then set the `DISCORD_TOKEN` variable in Secrets in Replit or Variables in RailWay and Heroku.
 
+### Deploy badges
+[![Run on Repl.it](https://repl.it/badge/github/nimagp/Anti-Anti-GhostPing)](https://repl.it/github/nimagp/Anti-Anti-GhostPing)
+
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2Fnimagp%2FAnti-Anti-GhostPing)
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
