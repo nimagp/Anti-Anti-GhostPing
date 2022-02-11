@@ -13,7 +13,6 @@ DISCORD_TOKEN=<your_token>
 ```
 5. Run 'python main.py' in the root directory of the project.
 ### Heroku/RailWay or Replit
-For deploy to these platforms you only need to set the `DISCORD_TOKEN` variable in Secrets in Replit or Variables in RailWay and Heroku.
-And then click on the 'Deploy' button of your platform or deploy project your self.
+For deploy to these platforms you only need to click on the 'Deploy' or 'Run' button of your platform or if you prefer, deploy project yourself. Then set the `DISCORD_TOKEN` variable in Secrets in Replit or Variables in RailWay and Heroku.
 
 
