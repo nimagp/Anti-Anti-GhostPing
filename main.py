@@ -4,7 +4,7 @@ from dotenv import load_dotenv
 import os
 from AlwaysRunningServer import StartServer
 import asyncio
-bot = Bot()
+bot = Bot(command_prefix='!')
 load_dotenv()
 TOKEN = os.getenv('DISCORD_TOKEN')
 
