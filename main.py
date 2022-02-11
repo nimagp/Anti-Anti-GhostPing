@@ -1,5 +1,5 @@
-import discord 
-from discord.ext.commands import Bot
+import discord #upm py-cord
+from discord.ext.commands import Bot #upm py-cord
 from dotenv import load_dotenv
 import os
 from AlwaysRunningServer import StartServer
